@@ -1,5 +1,5 @@
-                # Fitri-Alfatiya
-                # Bubble sort
+# Fitri-Alfatiya
+# Bubble sort
                 
                 from mpi4py import MPI
                 
@@ -62,7 +62,7 @@
                 
                 
                 
-                # Numerik
+# Numerik
                 
                 from mpi4py import MPI
                 import time
