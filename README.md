@@ -59,6 +59,7 @@
                         print("Sorted Data:", sorted_data)
                     else:
                         bubble_sort_parallel(data)
+
                 
                 
                 
